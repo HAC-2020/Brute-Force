@@ -1,2 +1,7 @@
 # Brute-Force
-This is the initiated README for team Brute Force, Please edit this as you build your project
+Team Brute Force 
+1. Elio Jordan Lopes 
+2. Aayush Sharma
+3. Ritik Gupta
+4. Devansh Mehta
+5. Shaolin Kataria
